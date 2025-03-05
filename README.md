@@ -24,7 +24,7 @@ This Power BI dashboard provides insights into the job market by analyzing trend
     Job Demand Trends: Data Engineers seems to be one of the highest demanded jobs in Data Science followed by Data Scientists.
     Most In-Demand Skills: SQL is a top skill for all jobs in data science.
     Top Hiring Companies: Leading tech firms are actively recruiting, as Computer Software is the 2nd most popular industry, hence remote work opportunities increasing.
-    Salary Trends: As years of expperience increase for a job, so does the associated salary. Data Analysts have shown to have the lowest salary over the years as compared to other data science jobs...but this might not be accurately correct as there was a 90% of salary missing values.
+    Salary Trends: As years of experience increase for a job, so does the associated salary. Data Analysts have shown to have the lowest salary over the years as compared to other data science jobs...but this might not be accurately correct as there was a 90% of salary missing values.
 
 📈Exploratory Data Analysis Findings: Key Insights
     Job postings are increasing in number.
